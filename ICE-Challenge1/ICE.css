@@ -2,12 +2,9 @@
     border: 1px solid black;
 }
 body {
-    background-color: beige;
+    background-color: pink;
 }
-a:hover {
-    background-color: darkgray;
-    color: white;
-}
+
 /* Menu */
 nav {
     display: flex;
@@ -17,13 +14,13 @@ h1 {
     font-size: 1em;
 }
 img {
-    width: 80%;
+    width: 95%;
 }
 #primary {
-    background-color: red;
+    background-color: lightblue;
 }
 a{
-    background-color: lightblue;
+    background-color: lightsteelblue;
     color: rgb(71, 68, 69);
     text-decoration: none;
     padding: 10px;
@@ -47,5 +44,8 @@ footer {
     color: rgb(71, 68, 69);
 }
 footer p {
+    text-align: center;
+}
+header {
     text-align: center;
 }
