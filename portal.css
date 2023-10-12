@@ -1,7 +1,9 @@
 * {
     border: 1px solid black;
 }
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&family=Rock+Salt&display=swap');
 body {
+    font-family: roboto, verdana, sans-serif;
     background-color: beige;
 }
 a:hover {
@@ -11,13 +13,12 @@ a:hover {
 /* Menu */
 nav {
     display: flex;
-    justify-content: center;
 }
 h1 {
     font-size: 1em;
 }
 img {
-    width: 80%;
+    width: 15%;
 }
 #primary {
     background-color: red;
@@ -27,7 +28,7 @@ a{
     color: rgb(71, 68, 69);
     text-decoration: none;
     padding: 10px;
-    margin: 500px;
+    margin: 80px auto;
     text-align: center;
 }
 
