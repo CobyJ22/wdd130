@@ -1,8 +1,8 @@
 * {
-    border: 0px solid black;
+    border: 1px solid black;
 }
 body {
-    background-color: lightpink;
+    background-color: lightsalmon;
 }
 
 /* Menu */
@@ -13,7 +13,7 @@ h1 {
     font-size: 1em;
 }
 img {
-    width: 25%;
+    width: 30%;
 }
 #primary {
     background-color: lightblue;
